@@ -34,7 +34,7 @@ function About() {
           <li>
             <span className="fact-label">Email</span>
                 <a href="mailto:pawankr007@gmail.com">
-                  pawankr007@gmail.com
+                  yashprajapati9903@gmail.com
             </a>
           </li>
 
@@ -45,7 +45,7 @@ function About() {
               target="_blank"
               rel="noreferrer"
             >
-              github.com/amanverma
+              github.com/yash prajapati
             </a>
           </li>
 
@@ -56,7 +56,7 @@ function About() {
               target="_blank"
               rel="noreferrer"
             >
-              linkedin.com/in/amanverma
+              linkedin.com/in/yash prajapati
             </a>
           </li>
         </ul>
